@@ -1,1 +1,1 @@
-# dom
+# metod gausa
